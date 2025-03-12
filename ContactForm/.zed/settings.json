@@ -1,0 +1,10 @@
+{
+  "languages": {
+    "PHP": {
+      "format_on_save": "off"
+    },
+    "HTML": {
+      "format_on_save": "off"
+    }
+  }
+}
